@@ -9,7 +9,12 @@ In my research, I aim to examine the relationship between agricultural and indus
 
 My hypothesis is that monetary shocks are transmitted quickly and significantly to agricultural sector prices and that the agricultural sector responds more rapidly to financial shocks than industrial prices. The two main academic works that form the foundation of my study are those of Zoltán Bakucs (2012) and Sayed H. Saghaian, Michael R. Reed, and Mary A. Marchant (2002). Zoltán Bakucs, too, analyzes the Hungarian economy's responses to financial shocks based on the theoretical model developed by Saghaian and colleagues (2002).
 
+## Literature Review
+Saghaian and colleagues’ theoretical model assumes a small open economy, yet their research focused on the United States from 1975 to 1999, which presents a limitation to their findings. The model is not applicable to large countries because monetary shocks in a large economy would have an impact on other countries as well. The time series exhibit fluctuations that are more significant in the agricultural price index compared to the industrial price index. The greater variance may be explained by the overshooting of agricultural prices.
 
+Overshooting refers to a temporary price change that exceeds its equilibrium state. The theory of overshooting was initially used to explain the volatility of foreign exchange markets and was later extended by Saghaian and colleagues to agricultural sectors based on Dornbusch’s (1976) overshooting theory.
+
+Frankel (1986) introduced the concepts of fixed-price and flexible-price sectors. In fixed-price sectors, prices adjust slowly (are inelastic) to changes in the money supply, whereas in flexible-price sectors, prices adjust quickly (are elastic). Saghaian and colleagues categorized agricultural prices under the flexible-price group and industrial prices under the fixed-price group. Their theoretical model is based on the following equations:
 
 
 
