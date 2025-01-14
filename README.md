@@ -17,4 +17,22 @@ Overshooting refers to a temporary price change that exceeds its equilibrium sta
 Frankel (1986) introduced the concepts of fixed-price and flexible-price sectors. In fixed-price sectors, prices adjust slowly (are inelastic) to changes in the money supply, whereas in flexible-price sectors, prices adjust quickly (are elastic). Saghaian and colleagues categorized agricultural prices under the flexible-price group and industrial prices under the fixed-price group. Their theoretical model is based on the following equations:
 
 
+# Fundamental Equations of the Theoretical Model
+
+| Equation | Description |
+|----------|-------------|
+| \( \dot{p}_m = \pi \left( y^d - y_m \right) + \mu p_m \) | \( p_m \): Logarithm of the industrial price index<br> \( y^d \): Logarithm of aggregate demand for industrial products, constant<br> \( y_m \): Logarithm of potential agricultural output in fixed-price sectors, constant |
+| \( x = \dot{e} \) | \( \dot{e} \): Logarithm of the exchange rate, endogenous<br> \( x \): Expected currency depreciation |
+| \( m - p = x y - \lambda r, \quad x, r > 0 \) | \( m \): Logarithm of nominal domestic money supply, exogenous<br> \( p \): Logarithm of the domestic price level, endogenous<br> \( y \): Logarithm of domestic real output, exogenous |
+| \( r = r^* + x \) | Assumes uncovered interest rate parity<br> \( r \): Domestic nominal interest rate, endogenous<br> \( r^* \): Foreign nominal interest rate, exogenous<br> \( x \): Expected currency depreciation |
+| \( p = \alpha_1 p_m + \alpha_2 p_c + (1 - \alpha_1 - \alpha_2)(e + p^*) \) | \( 0 \leq \alpha_1 + \alpha_2 \leq 1 \)<br> \( p_m \): Logarithm of the industrial price index<br> \( p_c \): Logarithm of the agricultural price index<br> \( p^* \): Logarithm of the foreign price level, exogenous |
+| \( A = \gamma_1 \left( e + p^* - p_c \right) + \gamma_2 \left( p_m - p_c \right) - \theta \left[ r - \dot{p} \right] + \phi y \) | \( \gamma_1, \gamma_2, \theta, \phi > 0 \)<br> \( A \): Logarithm of natural output in flex-price sectors, exogenous |
+| \( y^d = \delta_1 \left( e + p^* - p_m \right) + \delta_2 \left( p_c - p_m \right) - \sigma \left[ r - \dot{p} \right] + \eta y \) | \( \delta_1, \delta_2, \sigma, \eta > 0 \) |
+
+---
+
+**Figure**: Theoretical Model Equations  
+**Source**: Saghaian et al. (2002)
+
+
 
